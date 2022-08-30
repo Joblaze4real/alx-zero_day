@@ -1,0 +1,4 @@
+/Created by joblaze
+#My giignore file to define a rule to never push too much
+~files edited by emacs
+
